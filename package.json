@@ -1,0 +1,27 @@
+{
+  "name": "faksbackend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "asynch": "^0.5.2",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^7.4.1",
+    "morgan": "~1.8.1",
+    "mysql": "^2.13.0",
+    "node-xml2json": "^1.0.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "password-hash-and-salt": "^0.1.4",
+    "react-xml-parser": "^1.0.2",
+    "serve-favicon": "~2.4.2",
+    "xml2js": "^0.4.18"
+  }
+}
